@@ -1,52 +1,80 @@
-# Hi, I'm Nabin Pokharel
+<div align="center">
+  <h1>Hi, I'm Nabin Pokharel 👋</h1>
+  <h3>Full-Stack Web Developer</h3>
+  <p>I build real-time web applications with React and Node.js. <br />
+  I learn by building complete projects—from pixel-perfect interfaces to robust server architectures.</p>
+</div>
 
-Web developer from Nepal. I build web applications with React and Node.js.
+---
 
-I learn by building complete projects, from the interface to the server to deployment.
+## 🛠 Tech Stack
 
-## Tech Stack
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Real-Time</b></td>
+      <td align="center"><b>Deployment & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite" height="40" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express" height="40" /></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/WebSocket-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=netlify,git,github" height="40" />
+        <br />
+        <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-| | |
-|---|---|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" height="48" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" height="48" /> |
-| **Real-time** | <img src="https://img.shields.io/badge/WebSocket-333333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" /> |
-| **Deployment** | <img src="https://skillicons.dev/icons?i=netlify" height="48" /> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github" height="48" /> |
+---
 
-## Projects
+## 🚀 Featured Projects
 
-### VedDrop: instant file sharing
+### [VedDrop](https://veddrop.bedprasadpokharel.com.np/) | Instant Peer-to-Peer File Sharing
+> *Send files across devices using just a PIN—no signups, no device pairing, no hassle.*
 
-Send a file to another device using just a PIN. No signup and no device pairing.
+* **The Problem:** Campus networks lacked easy file-sharing mechanisms; Google accounts were blocked, and Bluetooth was unreliable.
+* **The Solution:** Engineered a web platform using **React**, **Node.js**, and **WebSockets** for instant, secure transfers over local networks.
+* 🔗 [Live Application](https://veddrop.bedprasadpokharel.com.np/) • [Client Code](https://github.com/NabinCenth/VedDrop-Client) • [Server Code](https://github.com/NabinCenth/VedDrop-Server)
 
-I built it because sharing files between classmates at my college was harder than it should be: the college systems had no Google accounts to use, and Bluetooth was slow or unavailable.
+### VedMeet | WebRTC Video Conferencing
+> *Browser-based video calls powered by real-time peer discovery.*
 
-`React` `Node.js` `WebSocket`
+* Built a custom signaling server with **Node.js** and **Socket.IO** to handle connection handshakes and peer routing.
+* Deployed a modern **React/Vite** frontend on Netlify, backed by a Render-hosted server.
+* 🔗 [Client Code](https://github.com/NabinCenth/VedMeet-Client) • [Server Code](https://github.com/NabinCenth/VedMeet-Server)
 
-[Live](https://veddrop.bedprasadpokharel.com.np/) · [Client](https://github.com/NabinCenth/VedDrop-Client) · [Server](https://github.com/NabinCenth/VedDrop-Server)
+### ChatVibe | Real-Time Chat Application
+> *A responsive, full-stack messaging platform for desktop and mobile.*
 
-### VedMeet: video calling
+* Developed an interactive UI backed by a robust **Node.js** and **Express** architecture.
+* 🔗 [Client Code](https://github.com/NabinCenth/ChatVibe-Client) • [Server Code](https://github.com/NabinCenth/ChatVibe-Server)
 
-Browser-based video calls using WebRTC. A Node.js server with Socket.IO handles the signaling that lets peers find and connect to each other. The frontend runs on Netlify and the backend on Render.
+---
 
-`React` `Vite` `Node.js` `Socket.IO` `WebRTC`
+## My Approach
 
-[Client](https://github.com/NabinCenth/VedMeet-Client) · [Server](https://github.com/NabinCenth/VedMeet-Server)
+<div align="center">
+<img width="763" height="1024" alt="4c01a4c8-52d9-4097-b975-2ef08ec43a9f" src="https://github.com/user-attachments/assets/6e7c7fc1-13c7-4316-8462-e64299119fc7" />
+</div>
 
-### ChatVibe: real-time chat
+---
 
-A chat application with a responsive layout for desktop and mobile, backed by a Node.js and Express server.
+## 📫 Let's Connect
 
-`React` `CSS` `Node.js` `Express`
-
-[Client](https://github.com/NabinCenth/ChatVibe-Client) · [Server](https://github.com/NabinCenth/ChatVibe-Server)
-
-## Currently
-
-Going deeper into backend development with Node.js and Express.
-
-## Contact
-
-<a href="https://bedprasadpokharel.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/bed-prasad-pokharel-a96896352"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
+  <a href="https://bedprasadpokharel.com.np/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bed-prasad-pokharel-a96896352">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
