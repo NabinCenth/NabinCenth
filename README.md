@@ -15,7 +15,6 @@
       <td align="center"><b>Frontend</b></td>
       <td align="center"><b>Backend</b></td>
       <td align="center"><b>Real-Time</b></td>
-      <td align="center"><b>Deployment & Tools</b></td>
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite" height="40" /></td>
@@ -24,11 +23,6 @@
         <img src="https://img.shields.io/badge/WebSocket-000000?style=flat-square" />
         <img src="https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=white" />
         <img src="https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=netlify,git,github" height="40" />
-        <br />
-        <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" />
       </td>
     </tr>
   </table>
