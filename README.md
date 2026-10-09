@@ -39,12 +39,12 @@
 * **The Solution:** Engineered a web platform using **React**, **Node.js**, and **WebSockets** for instant, secure transfers over local networks.
 * 🔗 [Live Application](https://veddrop.bedprasadpokharel.com.np/) • [Client Code](https://github.com/NabinCenth/VedDrop-Client) • [Server Code](https://github.com/NabinCenth/VedDrop-Server)
 
-### VedRing | WebRTC Video Conferencing
+### [VedRing](https://vedring.netlify.app) | WebRTC Video Conferencing
 > *Browser-based video calls powered by real-time peer discovery.*
 
 * Built a custom signaling server with **Node.js** and **Socket.IO** to handle connection handshakes and peer routing.
 * Deployed a modern **React/Vite** frontend on Netlify, backed by a Render-hosted server.
-* 🔗 [Live Application](https://vedring.netlify.app/)* 🔗 [Client Code](https://github.com/NabinCenth/VedRing-Client) • [Server Code](https://github.com/NabinCenth/VedRing-Server)
+* 🔗 [Live Application](https://vedring.netlify.app/) • 🔗 [Client Code](https://github.com/NabinCenth/VedRing-Client) • [Server Code](https://github.com/NabinCenth/VedRing-Server)
 
 ### ChatVibe | Real-Time Chat Application
 > *A responsive, full-stack messaging platform for desktop and mobile.*
